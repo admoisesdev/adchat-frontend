@@ -1,4 +1,4 @@
-# ADChat - Frontend
+# ADChat - Frontend - App de chat en tiempo real
 Frontend de adchat que es una app de mensajería que permite conversaciones en tiempo real entre usuarios.
 
 ## Analisis de requerimientos:
